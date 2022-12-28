@@ -1,6 +1,6 @@
 # Hi world 👋 My name is Fiorela Cristaldo
 #### MERN Full Stack Developer
-[![bannerGit](https://i.imgur.com/4hOrvvz.png "bannerGit")](http://https://i.imgur.com/4hOrvvz.png "bannerGit")
+[![bannerGit]([https://i.imgur.com/4hOrvvz.png "bannerGit")](http://https://i.imgur.com/4hOrvvz.png "bannerGit"](https://i.imgur.com/HcDBA2j.png))
 
 
 
