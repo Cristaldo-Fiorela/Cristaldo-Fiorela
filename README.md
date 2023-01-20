@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: cristaldofiorela@gmail.com
 
-- 📄 Know about my experiences on my [LinkedIn Profile](http://https://www.linkedin.com/in/fiorela-cristaldo/ "LinkedIn Profile")
+- 📄 Know about my experiences on my [LinkedIn Profile](https://www.linkedin.com/in/fiorela-cristaldo/ "LinkedIn Profile")
 
 - ⚡ Fun fact: Before becoming a web developer I was a filmmaker. 😅 🎬
 
