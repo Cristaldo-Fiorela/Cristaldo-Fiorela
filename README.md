@@ -21,7 +21,7 @@
 
 ### Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cristaldo-Fiorela&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cristaldo-Fiorela&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristaldo-Fiorela&langs_count=8&theme=tokyonight)]()
 
 
