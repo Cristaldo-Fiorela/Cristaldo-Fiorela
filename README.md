@@ -23,6 +23,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cristaldo-Fiorela&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristaldo-Fiorela&langs_count=5&theme=tokyonight)]()
+[![Fiorela's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cristaldo-Fiorela)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
