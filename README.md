@@ -27,11 +27,11 @@
 
 ### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristaldo-Fiorela&theme=dracula&show_icons=true&locale=en&layout=compact" alt="cristaldo-fiorela" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristaldo-Fiorela&theme=aura&show_icons=true&locale=en&layout=compact" alt="cristaldo-fiorela" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristaldo-Fiorela&theme=dracula&show_icons=true&locale=en" alt="cristaldo-fiorela" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristaldo-Fiorela&theme=aura&show_icons=true&locale=en" alt="cristaldo-fiorela" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristaldo-Fiorela&theme=dracula" alt="cristaldo-fiorela" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristaldo-Fiorela&theme=aura" alt="cristaldo-fiorela" /></p>
 
  
 <!--
