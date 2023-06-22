@@ -25,9 +25,11 @@
 
 ### Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cristaldo-Fiorela&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristaldo-Fiorela&langs_count=8&theme=tokyonight)]()
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristaldo-Fiorela&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="cristaldo-fiorela" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristaldo-Fiorela&theme=tokyonight&show_icons=true&locale=en" alt="cristaldo-fiorela" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristaldo-Fiorela&theme=tokyonight" alt="cristaldo-fiorela" /></p>
 
  
 <!--
