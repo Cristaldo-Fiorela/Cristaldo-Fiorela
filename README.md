@@ -13,8 +13,10 @@
 
 ------------
 
-#### More about me
- I graduated from MindHub bootcamp where I acquired knowledge in HTML, CSS, JavaScript, React, MongoDB, NodeJs, Express, Bootstrap, Github, React Native among others, using agile methodologies such as 'Scrum'. I have +600 hours in REAL work environment simulation working on both individual and group projects.
+### More about me
+⭐I am a creative, curious and persevering person. In 2022 I changed the course of my life and entered the IT world where I continue to train and face new challenges. I am looking to be part of a team where I can share my knowledge and enrich my experiences.
+⭐I graduated from MindHub bootcamp where I acquired knowledge in HTML, CSS, JavaScript, React, MongoDB, NodeJs, Express, Bootstrap, Github, React Native among others, using agile methodologies such as 'Scrum'. I have +600 hours in REAL work environment simulation working on both individual and group projects.
+ 
 
 ------------
 
