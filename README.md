@@ -27,7 +27,7 @@
 
 ### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristaldo-Fiorela&theme=aura&show_icons=true&locale=en&layout=compact" alt="cristaldo-fiorela" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristaldo-Fiorela&theme=aura&show_icons=true&locale=en&layout=compact&langs_count=8" alt="cristaldo-fiorela" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristaldo-Fiorela&theme=aura&show_icons=true&locale=en" alt="cristaldo-fiorela" /></p>
 
