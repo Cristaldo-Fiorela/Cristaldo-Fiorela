@@ -10,14 +10,13 @@
 - ⚡ Fun fact: Before becoming a web developer I was a filmmaker. 😅 🎬
 
 
-------------
-
 ## About Me
 
 ⭐ Hi! I'm Fiorela Cristaldo, Full Stack developer, based in Argentina  
 🌱 I’m currently pursuing a degree in Software Engineering. 
 
-------------
+
+
 ## Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,9 +30,9 @@
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=for-the-badge&logo=pascal&logoColor=black)
 
-------------
 
-### Stats
+
+## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristaldo-Fiorela&theme=aura&show_icons=true&locale=en&layout=compact&langs_count=8" alt="cristaldo-fiorela" /></p>
 
