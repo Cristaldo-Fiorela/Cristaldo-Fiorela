@@ -12,7 +12,7 @@
 
 ## About Me
 
-⭐ Hi! I'm Fiorela Cristaldo, Full Stack developer, based in Argentina  
+⭐ Hi! I'm Fiorela Cristaldo, FrontEnd developer, based in Argentina  
 🌱 I’m currently pursuing a degree in Software Engineering. 
 
 
