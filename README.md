@@ -1,5 +1,4 @@
 # Hi world 👋 My name is Fiorela Cristaldo
-#### MERN Full Stack Developer
 ![bannerGit](https://i.imgur.com/C4Gok6E.png)
 
 
