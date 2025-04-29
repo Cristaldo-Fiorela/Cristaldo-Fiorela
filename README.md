@@ -1,5 +1,5 @@
 # Hi world 👋 My name is Fiorela Cristaldo
-![bannerGit](https://i.imgur.com/C4Gok6E.png)
+![bannerGit](https://imgur.com/u3Xw3h9.png)
 
 
 - 📫 How to reach me: cristaldofiorela@gmail.com
