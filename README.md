@@ -1,20 +1,13 @@
-# Hi world 👋 My name is Fiorela Cristaldo
+# Hi world 👋 My name is Fiorela Cristaldo, Software developer, based in Argentina ⭐ 
 ![bannerGit](https://imgur.com/u3Xw3h9.png)
-
 
 - 📫 How to reach me: cristaldofiorela@gmail.com
 
 - 📄 Know about my experiences on my [LinkedIn Profile](https://www.linkedin.com/in/fiorela-cristaldo/ "LinkedIn Profile")
 
 - ⚡ Fun fact: Before becoming a web developer I was a filmmaker. 😅 🎬
-
-
-## About Me
-
-⭐ Hi! I'm Fiorela Cristaldo, FrontEnd developer, based in Argentina  
-🌱 I’m currently pursuing a degree in Software Engineering. 
-
-
+ 
+- 🌱 I’m currently pursuing a degree in Software Engineering. 
 
 ## Languages and Tools:
 
