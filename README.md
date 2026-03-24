@@ -21,7 +21,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=for-the-badge&logo=pascal&logoColor=black)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 ## Stats
