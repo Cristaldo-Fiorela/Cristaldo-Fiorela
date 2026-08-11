@@ -2,6 +2,7 @@
 ![bannerGit](https://imgur.com/u3Xw3h9.png)
 
 - 📫 How to reach me: cristaldofiorela@gmail.com
+- 🌟 My [Portfolio](https://cristaldo-fiorela.github.io/portfolio/ "portfolio")
 
 - 📄 Know about my experiences on my [LinkedIn Profile](https://www.linkedin.com/in/fiorela-cristaldo/ "LinkedIn Profile")
 
